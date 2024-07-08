@@ -1,6 +1,10 @@
 ## 👨‍💻 개발자 오건영입니다 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fo54711254&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 불편함에서 오는 아이디어를 구현하고 싶은 개발자 오건영입니다.
+<br/>
+새로운 분야로의 도전 및 학습을 즐기며 소통을 중시합니다.
+<br/>
+
 
 ---
 
